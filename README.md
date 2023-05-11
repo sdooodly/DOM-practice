@@ -1,1 +1,1 @@
-# DOM-practise
+# DOM-practice
